@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ietsune",
  "yomi": "ふじわらのいえつねあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "藤原家経",
+  "desc": "藤原家経の家集。永承4年の殿上歌合の詠や、讃岐への下向と帰京の旅で能因らと交わした贈答などを収める。"
+ },
  "editions": [
   {
    "pid": "936505",
